@@ -1,0 +1,5 @@
+name: gFacTop
+authors: [Gab_Alves]
+version: 1.0
+main: me.gabriel.gfactop.Main
+depend: [Factions, MassiveCore]
